@@ -1,4 +1,4 @@
-# ZARA_Sales_Analysis
+# ZARA Sales Analysis
 Pet project on data analysis with PostgreSQL and Tableau
 
 A pet project for my Data Analyst portfolio. I took Zara sales data from Kaggle, built a simple data warehouse in PostgreSQL, ran some SQL queries for insights, and visualized it all in Tableau.
