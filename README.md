@@ -2,7 +2,7 @@
 Pet project on data analysis with PostgreSQL and Tableau
 
 ## What I Did
-I took Zara sales data from Kaggle, built a data warehouse in PostgreSQL, ran SQL queries for insights, and visualized it all in Tableau.
+**I took Zara sales data from Kaggle, built a data warehouse in PostgreSQL, ran SQL queries for insights, and visualized it all in Tableau.**
 
 Started with a raw CSV of 252 Zara products (jackets, shoes, etc.). Modeled it into a star schema: one fact table for sales metrics and dims for products, categories, sections (Man/Woman), brands, and positions.
 
