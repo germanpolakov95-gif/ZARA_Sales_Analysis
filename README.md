@@ -10,7 +10,7 @@ ETL in [project.sql](sql/project.sql): Imported data, cleaned duplicates and nul
 
 Then, analytical queries in [queries.sql](sql/queries.sql): Top products, promo impact, category breakdowns (optimized with EXPLAIN ANALYZE).
 
-Finally, dashboard in Tableau: https://public.tableau.com/app/profile/herman.polyakov/viz/ZARASalesAnalysis/Dashboard1
+**Finally, dashboard in Tableau:** https://public.tableau.com/app/profile/herman.polyakov/viz/ZARASalesAnalysis/Dashboard1
 
 Data exports in [data/](data/) for reference.
 
